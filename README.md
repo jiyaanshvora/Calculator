@@ -6,11 +6,11 @@ A simple, fast, and responsive calculator web application that works on all devi
 
 ### Open on Mobile Phone
 Simply visit this link on your mobile phone:
-**[Open Calculator](https://jiyaanshvora.github.io/calculator/)**
+**[Open Calculator](https://jiyaanshvora.github.io/Calculator/)**
 
 ### Or scan this QR code:
 ```
-📱 https://jiyaanshvora.github.io/calculator/
+📱 https://jiyaanshvora.github.io/Calculator/
 ```
 
 ## ✨ Features
@@ -26,7 +26,7 @@ Simply visit this link on your mobile phone:
 
 ## 📋 How to Use
 
-1. **Open the link** on your phone: https://jiyaanshvora.github.io/calculator/
+1. **Open the link** on your phone: https://jiyaanshvora.github.io/Calculator/
 2. **Enter numbers** by tapping the number buttons
 3. **Select operation** by tapping +, -, ×, or ÷
 4. **Enter second number**
@@ -51,4 +51,4 @@ This calculator is fully optimized for mobile devices:
 
 ---
 
-**Repository:** [jiyaanshvora/calculator](https://github.com/jiyaanshvora/calculator)
+**Repository:** [jiyaanshvora/Calculator](https://github.com/jiyaanshvora/Calculator)
